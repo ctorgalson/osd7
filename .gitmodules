@@ -1,0 +1,3 @@
+[submodule ".openshift"]
+	path = .openshift
+	url = https://github.com/ctorgalson/openshift-d7.git
